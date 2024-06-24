@@ -12,7 +12,6 @@ import com.example.filesystem.models.File;
 import com.example.filesystem.models.SessionStatus;
 import com.example.filesystem.models.User;
 import com.example.filesystem.repositories.FileStorageRepository;
-import com.example.filesystem.repositories.SessionRepository;
 import com.example.filesystem.repositories.UserRepository;
 import com.example.filesystem.utils.FileUtils;
 import com.example.filesystem.versions.FileVersioning;
